@@ -1,1 +1,1 @@
-👋 Hi everyone, I am Jeffrey Jahja. I am a Mechatronics Engineering and Business Analytics student. Feel free to have a look into my repository!
+👋 Hi everyone, I am Jeffrey Jahja. I am a Mechatronics Engineering and Business Analytics student. This GitHub repository contains all my past coding experiences whether it is for academics or for hobby.
